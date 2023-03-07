@@ -1,0 +1,24 @@
+#principal {
+    border: solid 2px #cccccc;
+    padding: 5px;
+    margin: 0 auto;
+    width: 85%;
+    background: #82baf9;
+}
+fieldset{
+    margin-bottom: 10px;
+}
+legend{
+    border: solid 2px #b5d5;
+    padding: 5px;
+    font-weight: bold;
+    background: #cccccc;
+    border-radius: 15px;
+}
+#mifoto{
+    border: solid 3px;
+    margin: 10px;
+}
+body{
+    background:url(foto.jpg);
+}
